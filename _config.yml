@@ -1,11 +1,10 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Claude Jordan # your name (or website title) here
+logo: "/images/itsme.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  CS Master's graduate with expertise in advanced algorithms (with a special focus on graphs) and IT security.
+  Proven track record in designing efficient solutions for complex problems.
+  Passionate about leveraging technology to tackle challenges and drive innovation.
+  Seeking opportunities to apply skills in a dynamic environment.
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
