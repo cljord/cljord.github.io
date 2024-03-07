@@ -9,7 +9,7 @@ I'm currently in the process of uploading more of my projects to this website. *
 ---
 
 ### [Wolfenstein 3D-style Raycaster](https://cljord.github.io/raycaster/) <br>
-A simple [Raycaster](https://en.wikipedia.org/wiki/Ray_casting) in the style of [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D), written in pure JavaScript and using the [p5.js](https://p5js.org/) library for line drawing and keyboard input. No other libraries used. Move around with the arrow keys.
+A simple [Raycaster](https://en.wikipedia.org/wiki/Ray_casting) in the style of [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D) (you might also know this style from the [Windows 3D Maze Screensaver](https://en.wikipedia.org/wiki/3D_Maze)), written in pure JavaScript and using the [p5.js](https://p5js.org/) library for line drawing and keyboard input. No other libraries used. Move around with the arrow keys.
 <img src="images/raycaster.gif?raw=true"/>
 
 ---
@@ -22,7 +22,7 @@ The title of my thesis was **"Utilising fractional values in primal heuristics t
 
 - B.Sc. Informatik (Computer Science) at University of Bonn, 2018-2021.
 
-The title of my thesis was **"Klassifikation temporaler Graphen mit Graphkernen" ("Classifying temporal graphs with graph kernels")**. I modified an [algorithm](https://dl.acm.org/doi/abs/10.1145/3018661.3018731) for counting occurences of structures in temporal graphs so it could be used with node-labeled date. This allowed the adaptation of a [static graphlet kernel](https://proceedings.mlr.press/v5/shervashidze09a.html) to work with labeled, temporal graphs and subsequent classification of these graphs with a [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine). In practice, this would allow e.g. modeling the spread of diseases in a network. The results achieved here were quite strong and we ended up publishing a paper on the basis of my work, see below.
+The title of my thesis was **"Klassifikation temporaler Graphen mit Graphkernen" ("Classifying temporal graphs with graph kernels")**. I modified an [algorithm](https://dl.acm.org/doi/abs/10.1145/3018661.3018731) for counting occurences of structures in temporal graphs so it could be used with node-labeled data. This allowed the adaptation of a [static graphlet kernel](https://proceedings.mlr.press/v5/shervashidze09a.html) to work with labeled, temporal graphs and subsequent classification of these graphs with a [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine). In practice, this would allow e.g. modeling the spread of diseases in a network. The results achieved here were quite strong and we ended up publishing a paper on the basis of my work, see below.
 
 ---
 
