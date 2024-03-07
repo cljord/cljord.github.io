@@ -4,8 +4,8 @@
 
 ### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Wolfenstein 3D-style Raycaster](https://cljord.github.io/raycaster/)
+<img src="images/raycaster.gif?raw=true"/>
 
 ---
 
