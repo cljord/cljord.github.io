@@ -4,7 +4,12 @@
 
 ### Projects
 
+I'm currently in the process of uploading more of my projects to this website. **Stay tuned and check back later!**
+
+---
+
 [Wolfenstein 3D-style Raycaster](https://cljord.github.io/raycaster/)
+A simple [Raycaster](https://en.wikipedia.org/wiki/Ray_casting) in the style of [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D), written in pure JavaScript and using the [p5.js](https://p5js.org/) library for line drawing and keyboard input. No other graphics libraries used. Move around with the arrow keys.
 <img src="images/raycaster.gif?raw=true"/>
 
 ---
