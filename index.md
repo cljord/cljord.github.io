@@ -10,7 +10,11 @@ I'm currently in the process of uploading more of my projects to this website. *
 
 ### [The Smartbrain](https://smartbrain-frontend-pno3.onrender.com/) <br>
 
-Using the PERN stack (PostgreSQL, Express.js, React.js, Node.js), you can register and sign up, then enter a link. Using a face detection model (with an API call to Clarifai), you will receive bounding boxes around one face. Current todo is to extend it so the bounding box will appear around all faces, but wanted to showcase it already. Uses encryption, but you can sign in with user frank@gmail.com and password "frank" to test it yourself and avoid using your real email address. Capstone project from an online course I completed next to my studies.
+Using the PERN stack (PostgreSQL, Express.js, React.js, Node.js), you can register and sign up, then enter a link. Using a face detection model (with an API call to Clarifai), you will receive bounding boxes around one face.
+
+Current todo is to extend it so the bounding box will appear around all faces, but wanted to showcase it already.
+
+Uses encryption, but you can sign in with user frank@gmail.com and password "frank" to test it yourself and avoid using your real email address. Capstone project from an online course I completed next to my studies.
 <img src="images/smartbrain.gif?raw=true"/>
 
 ---
@@ -25,7 +29,7 @@ A simple [Raycaster](https://en.wikipedia.org/wiki/Ray_casting) in the style of 
 
 - M.Sc. Computer Science at University of Bonn, 2021 - December 2023.
 
-The title of my thesis was **"Utilising fractional values in primal heuristics to solve MaxCut with Branch-and-Bound"** and was concerned with: parallelising the execution of heuristics during the main branch-and-bound search - modifying and implementing MaxCut-specific heuristics to (hopefully) speed up the computation process - using improvement heuristics - running a large-scale experimental comparison. This resulted in considerable speed-ups and increases in the efficiency of the solver when solving the MaxCut problem.
+The title of my thesis was **"Utilising fractional values in primal heuristics to solve MaxCut with Branch-and-Bound"** and was concerned with: parallelising the execution of heuristics during the main branch-and-bound search - modifying and implementing MaxCut-specific heuristics to (hopefully) speed up the computation process - using improvement heuristics - running a large-scale experimental comparison. This resulted in considerable speed-ups and increased the efficiency of the solver when solving the MaxCut problem.
 
 - B.Sc. Informatik (Computer Science) at University of Bonn, 2018-2021.
 
