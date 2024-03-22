@@ -45,7 +45,11 @@ In practice, this would allow e.g. modeling the spread of diseases in a network.
 
 # Publication
 
-- I have exactly one paper to my name: [A Temporal Graphlet Kernel For Classifying Dissemination in Evolving Networks. L Oettershagen, NM Kriege, C Jordan, P Mutzel](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch3). It is based on the results of my Bachelor's thesis, but with improvements. It received the **Best Paper Award** at the [18th International Workshop on Mining and Learning with Graphs](http://www.mlgworkshop.org/2023/).
+- I have exactly one paper to my name:
+
+[A Temporal Graphlet Kernel For Classifying Dissemination in Evolving Networks. L Oettershagen, NM Kriege, C Jordan, P Mutzel](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch3).
+
+It is based on the results of my Bachelor's thesis, but with improvements. It received the **Best Paper Award** at the [18th International Workshop on Mining and Learning with Graphs](http://www.mlgworkshop.org/2023/).
 
 
 ---
