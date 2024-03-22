@@ -3,7 +3,7 @@ logo: "/images/itsme.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   CS Master's graduate with expertise in full-stack development and graph algorithms.<br>
   Good with HTML/CSS/JavaScript (+ React), Python, C++.<br>
-  Want to have a Great Pyrenees dog one day.
+  Know some Java, SQL, Docker, Jenkins. <br>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
