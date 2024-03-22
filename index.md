@@ -10,11 +10,11 @@ I'm currently in the process of re-implementing and uploading more of my project
 
 ### [The Smartbrain](https://smartbrain-frontend-pno3.onrender.com/) <br>
 
-Using the PERN stack (PostgreSQL, Express.js, React.js, Node.js), you can register and sign up, then enter a link. Using a face detection model (with an API call to Clarifai), you will receive bounding boxes around one face.
+Using the PERN stack (PostgreSQL, Express.js, React.js, Node.js), you can register and sign up, then enter a link. Using a face detection model (with an API call to Clarifai), you will receive a bounding box around one face.
 
-Current todo is to extend it so the bounding box will appear around all faces, but wanted to showcase it already.
+Current todo is to extend it so the bounding box will appear around all faces (if multiple people are in the picture), but wanted to showcase it already.
 
-Uses encryption, but you can sign in with user frank@gmail.com and password "frank" to test it yourself and avoid using your real email address. Capstone project from an online course I completed next to my studies.
+Uses encryption, but you can sign in with user ax@ax.com and password "ax" to test it yourself and avoid using your real email address (you can also register with a fake address). Capstone project from an online course I completed next to my studies.
 <img src="images/smartbrain.gif?raw=true"/>
 
 ---
@@ -39,7 +39,7 @@ The title of my thesis was **"Klassifikation temporaler Graphen mit Graphkernen"
 
 This allowed the adaptation of a [static graphlet kernel](https://proceedings.mlr.press/v5/shervashidze09a.html) to work with labeled, temporal graphs and subsequent classification of these graphs with a [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine).
 
-In practice, this would allow e.g. modeling the spread of diseases in a network. The results achieved here were quite strong and we ended up publishing a paper on the basis of my work, see below.
+In practice, this would allow e.g. distinguishing real from fake news when informations travels through a network, as these have different spread patterns. The results achieved here were quite strong and we ended up publishing a paper on the basis of my work, see below.
 
 ---
 
