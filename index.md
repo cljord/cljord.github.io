@@ -4,7 +4,7 @@
 
 ## More to come
 
-I'm currently in the process of uploading more of my projects to this website. **Stay tuned and check back later!**
+I'm currently in the process of re-implementing and uploading more of my projects to this website. **Stay tuned and check back later!**
 
 ---
 
@@ -35,7 +35,7 @@ This resulted in considerable speed-ups and increased the efficiency of the solv
 
 - B.Sc. Informatik (Computer Science) at University of Bonn, 2018-2021.
 
-The title of my thesis was **"Klassifikation temporaler Graphen mit Graphkernen" ("Classifying temporal graphs with graph kernels")**. I modified an [algorithm](https://dl.acm.org/doi/abs/10.1145/3018661.3018731) for counting occurences of structures in temporal graphs so it could be used with node-labeled data.
+The title of my thesis was **"Klassifikation temporaler Graphen mit Graphkernen" ("Classification of temporal graphs with graph kernels")**. I modified an [algorithm](https://dl.acm.org/doi/abs/10.1145/3018661.3018731) for counting occurences of structures in temporal graphs so it could be used with node-labeled data.
 
 This allowed the adaptation of a [static graphlet kernel](https://proceedings.mlr.press/v5/shervashidze09a.html) to work with labeled, temporal graphs and subsequent classification of these graphs with a [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine).
 
