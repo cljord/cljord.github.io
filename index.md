@@ -4,7 +4,7 @@
 
 ## More to come
 
-I'm currently in the process of re-implementing and uploading more of my projects to this website. **Stay tuned and check back later!**
+I'm currently in the process of re-implementing and uploading more of my projects to this website. **Stay tuned and check back later!** (All code can be found on my [GitHub profile](https://github.com/cljord))
 
 ---
 
