@@ -10,8 +10,8 @@ I'm currently in the process of uploading more of my projects to this website. *
 
 ### [The Smartbrain](https://smartbrain-frontend-pno3.onrender.com/) <br>
 
-Using the PERN stack (PostgreSQL, Express.js, React.js, Node.js), you can register and sign up, then enter a link. Using a face detection model (with an API call to Clarifai), you will receive bounding boxes around one face. Current todo is to extend it so the bounding box will appear around all faces, but wanted to showcase it already. Uses encryption, but you can sign in with user frank@gmail.com and password "frank" to test it yourself.
-<img src="images/simplebrain.gif?raw=true"/>
+Using the PERN stack (PostgreSQL, Express.js, React.js, Node.js), you can register and sign up, then enter a link. Using a face detection model (with an API call to Clarifai), you will receive bounding boxes around one face. Current todo is to extend it so the bounding box will appear around all faces, but wanted to showcase it already. Uses encryption, but you can sign in with user frank@gmail.com and password "frank" to test it yourself and avoid using your real email address. Capstone project from an online course I completed next to my studies.
+<img src="images/smartbrain.gif?raw=true"/>
 
 ---
 
