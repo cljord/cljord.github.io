@@ -8,6 +8,13 @@ I'm currently in the process of uploading more of my projects to this website. *
 
 ---
 
+### [The Smartbrain](https://smartbrain-frontend-pno3.onrender.com/) <br>
+
+Using the PERN stack (PostgreSQL, Express.js, React.js, Node.js), you can register and sign up, then enter a link. Using a face detection model (with an API call to Clarifai), you will receive bounding boxes around one face. Current todo is to extend it so the bounding box will appear around all faces, but wanted to showcase it already. Uses encryption, but you can sign in with user frank@gmail.com and password "frank" to test it yourself.
+<img src="images/simplebrain.gif?raw=true"/>
+
+---
+
 ### [Wolfenstein 3D-style Raycaster](https://cljord.github.io/raycaster/) <br>
 A simple [Raycaster](https://en.wikipedia.org/wiki/Ray_casting) in the style of [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D) (you might also know this style from the [Windows 3D Maze Screensaver](https://en.wikipedia.org/wiki/3D_Maze)), written in pure JavaScript and using the [p5.js](https://p5js.org/) library for line drawing and keyboard input. No other libraries used. Move around with the arrow keys.
 <img src="images/raycaster.gif?raw=true"/>
