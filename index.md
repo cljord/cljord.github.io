@@ -4,7 +4,9 @@
 
 ## More to come
 
-I'm currently in the process of re-implementing and uploading more of my projects to this website. **Stay tuned and check back later!** (All code can be found on my [GitHub profile](https://github.com/cljord))
+I'm currently in the process of re-implementing and uploading more of my projects to this website. **Stay tuned and check back later!**
+
+All code can be found on my [GitHub profile](https://github.com/cljord)
 
 ---
 
@@ -15,6 +17,8 @@ Using the PERN stack (PostgreSQL, Express.js, React.js, Node.js), you can regist
 Current todo is to extend it so the bounding box will appear around all faces (if multiple people are in the picture), but wanted to showcase it already.
 
 Uses encryption, but you can sign in with user ax@ax.com and password "ax" to test it yourself and avoid using your real email address (you can also register with a fake address). Capstone project from an online course I completed next to my studies.
+
+**Please note: Due to the free hosting I am using, the database spins down after a while. If you register or sign in and nothing happens, just keep the window open for up to a minute.**
 <img src="images/smartbrain.gif?raw=true"/>
 
 ---
