@@ -24,7 +24,7 @@ The second part of the task consisted of coming up with ideas on how to make col
 
 Finally, the third part of the task was to think about how to design your own CRUD interface for this. Again, I went a step further and implemented a basic version of this interface, which you can find [here](https://github.com/cljord/scopevisio_crud).
 
-**Skills: Backend (Node.js, Express, PostgreSQL)**
+**Skills: Backend (Node.js, Express, PostgreSQL), REST API**
 <img src="images/gasstation.gif?raw=true"/>
 
 ---
@@ -37,6 +37,8 @@ Current todo is to extend it so the bounding box will appear around all faces (i
 
 Uses encryption, but you can sign in with user ax@ax.com and password "ax" to test it yourself and avoid using your real email address (you can also register with a fake address). Capstone project from an online course I completed next to my studies.
 
+**Skills: Fullstack Development, React, HTML, CSS, JavaScript, Node.js, Express, PostgreSQL, Encryption**
+
 **Please note: Due to the free hosting I am using, the database spins down after a while. If you register or sign in and nothing happens, just keep the window open for up to a minute.**
 <img src="images/smartbrain.gif?raw=true"/>
 
@@ -44,6 +46,8 @@ Uses encryption, but you can sign in with user ax@ax.com and password "ax" to te
 
 ### [Wolfenstein 3D-style Raycaster](https://cljord.github.io/raycaster/) <br>
 A simple [Raycaster](https://en.wikipedia.org/wiki/Ray_casting) in the style of [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D) (you might also know this style from the [Windows 3D Maze Screensaver](https://en.wikipedia.org/wiki/3D_Maze)), written in pure JavaScript and using the [p5.js](https://p5js.org/) library for line drawing and keyboard input. No other libraries used. Move around with the arrow keys.
+
+**Skills: JavaScript, 3D projection with Raycasting, p5.js**
 <img src="images/raycaster.gif?raw=true"/>
 
 ---
