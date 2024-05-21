@@ -22,7 +22,7 @@ The second part of the task consisted of coming up with ideas on how to make col
 
 **Skills: CI/CD (GitHub actions, ESLint, Prettier)**
 
-Finally, the third part of the task was to think about how to design your own CRUD interface for this. Again, I went a step further and implemented a basic version of this interface.
+Finally, the third part of the task was to think about how to design your own CRUD interface for this. Again, I went a step further and implemented a basic version of this interface, which you can find [here](https://github.com/cljord/scopevisio_crud).
 
 **Skills: Backend (Node.js, Express, PostgreSQL)**
 <img src="images/gasstation.gif?raw=true"/>
