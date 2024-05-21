@@ -10,6 +10,25 @@ All code can be found on my [GitHub profile](https://github.com/cljord)
 
 ---
 
+### [Gas Station Finder](https://scopevisio-takehome.vercel.app/) <br>
+
+Part of a take-home assignment for a job interview. The task was to download .json data that the city of Cologne made available. This dataset contained information about gas stations in the area in and around Cologne, which should be "displayed appropriately".
+
+I used Mapbox to display the gas stations on a map of cologne and then created a grid of cards with pagination.
+
+**Skills: Frontend (React, HTML, CSS, JavaScript)**
+
+The second part of the task consisted of coming up with ideas on how to make collaborative coding simple on this project. My ideas were to use a Linter (ESLint), Code formatter (Prettier), and run tests. I went a step further and, instead of only coming up with ideas, implemented a GitHub actions pipeline for this.
+
+**Skills: CI/CD (GitHub actions, ESLint, Prettier)**
+
+Finally, the third part of the task was to think about how to design your own CRUD interface for this. Again, I went a step further and implemented a basic version of this interface.
+
+**Skills: Backend (Node.js, Express, PostgreSQL)**
+<img src="images/gasstation.gif?raw=true"/>
+
+---
+
 ### [The Smartbrain](https://smartbrain-frontend-pno3.onrender.com/) <br>
 
 Using the PERN stack (PostgreSQL, Express.js, React.js, Node.js), you can register and sign up, then enter a link. Using a face detection model (with an API call to Clarifai), you will receive a bounding box around one face.
